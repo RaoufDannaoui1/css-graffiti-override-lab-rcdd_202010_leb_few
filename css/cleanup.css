@@ -9,4 +9,7 @@
 
 #wall .tag-1 {
   display: none;
+  width: 500px;
+  height: 300px;
+}
 }
