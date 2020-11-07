@@ -13,4 +13,20 @@
   width: 500px;
   height: 300px;
 }
+
+#tag-2{
+  z-index: 7;
+  display: block;
+  width: 500px;
+  height: 300px;
+  display: none;
 }
+
+#tag-3{
+  z-index: 7;
+  display: block;
+  width: 500px;
+  height: 300px;
+  display: none;
+}
+
